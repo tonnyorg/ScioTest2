@@ -19,7 +19,7 @@ En los requerimientos de la prueba se solicitaban objetos "fijos", por eso los i
 
 ## Contribuye
 
-Si consideras que puedes `mejorar` el proyecto, agregarle valor con nuevas funcionalidades o simplemente has encontrado un error y deseas corregirlo, siéntete libre de proponer tus cambios. Para hacerlo solo debes seguir unos pasos:
+Si consideras que puedes mejorar el proyecto, agregarle valor con nuevas funcionalidades o simplemente has encontrado un error y deseas corregirlo, siéntete libre de proponer tus cambios. Para hacerlo solo debes seguir unos pasos:
 
 1. Haz un *fork* de este proyecto.
 2. Reliza los cambios que consideres pertinentes.
