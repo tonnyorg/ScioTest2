@@ -1,0 +1,9 @@
+{
+    "require": {
+		"slim/slim": "2.*",
+        "pimple/pimple": "~3.0"
+	},
+	 "autoload": {
+        "classmap": ["classes/", "controllers/"]
+    }
+}

@@ -1,6 +1,8 @@
 # ScioTest2
 
-Prueba #2 de PHP para Scio Consulting: motor de juego (guerreros y armas). Estoy familiarizado únicamente con el concepto de Dependency injection, o *DI*, sin embargo previamente no había utilizado librerías "desde cero" para la implementación de éste patrón (usualmente solo seguía prácticas sugeridas de los farmeworks que utilizo y que hacen uso de éste patrón).
+Prueba #2 de PHP para Scio Consulting: motor de juego (guerreros y armas). Estoy familiarizado únicamente con el concepto de Dependency injection, o *DI*, sin embargo previamente no había utilizado librerías "desde cero" para la implementación de éste patrón (usualmente solo seguía prácticas sugeridas de los farmeworks que utilizo y que hacen uso de éste patrón), de hecho me puse a leer al respecto.
+
+En los requerimientos de la prueba se solicitaban objetos "fijos", por eso los incluí de esa forma en el manejador de dependencias, de otra forma habría hecho algo más óptimo.
 
 #### Requerimientos
 
@@ -17,7 +19,7 @@ Prueba #2 de PHP para Scio Consulting: motor de juego (guerreros y armas). Estoy
 
 ## Contribuye
 
-Si consideras que puedes mejorar el proyecto, agregarle valor con nuevas funcionalidades o simplemente has encontrado un error y deseas corregirlo, siéntete libre de proponer tus cambios. Para hacerlo solo debes seguir unos pasos:
+Si consideras que puedes `mejorar` el proyecto, agregarle valor con nuevas funcionalidades o simplemente has encontrado un error y deseas corregirlo, siéntete libre de proponer tus cambios. Para hacerlo solo debes seguir unos pasos:
 
 1. Haz un *fork* de este proyecto.
 2. Reliza los cambios que consideres pertinentes.
@@ -27,6 +29,3 @@ Si consideras que puedes mejorar el proyecto, agregarle valor con nuevas funcion
 ### Contribuyentes
 
 - N/A
-
-
-### Por hacer

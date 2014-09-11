@@ -1,0 +1,18 @@
+#content {
+    background-color: $white;
+    border: 1px solid $gray;
+    margin-bottom: 1em;
+    padding: 1em;
+	text-align: center;
+
+	.form {
+		.filters, buttons { margin-bottom: 1em; }
+	}
+
+	.response {
+		color: $green;
+		font-size: 16px;
+		font-weight: bold;
+		margin-top: 2em;
+	}
+}
