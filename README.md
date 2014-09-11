@@ -14,7 +14,7 @@ En los requerimientos de la prueba se solicitaban objetos "fijos", por eso los i
 ## Componentes
 
 - **[Slim Framework](https://github.com/codeguy/Slim)**: Mini-framework de PHP, muy básico solo provee herramientas de enrutamiento, vistas, sesiones y algunas cosas más.
-- **[Pimple](http://pimple.sensiolabs.org/)**: Una librería muy básica para el manejo de dependencias en PHP.
+- **[Pimple](http://pimple.sensiolabs.org/)**: Una librería muy básica para el manejo de injección de dependencias en PHP.
 
 
 ## Contribuye
